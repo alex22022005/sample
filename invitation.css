@@ -1,0 +1,47 @@
+.h1
+{
+    text-align: center;
+    color: black;
+    margin-bottom: 0%;
+}
+body
+{
+    background: url('background1.jpg');
+    background-position: top;
+    width: 100%;
+    overflow-x: hidden;
+}
+.clglogo
+{
+    display: block;
+    
+    margin-right: auto;
+    width: 300px;
+    height: 100px;
+}
+.stella
+{
+    height: 200px;
+    width: 200px;
+  
+}
+.web{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+span{
+    font-style: 14px;
+    font-weight: 800;
+}
+.down{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.website
+{
+    margin-left: 30%;
+
+}
